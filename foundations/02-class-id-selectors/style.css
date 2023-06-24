@@ -1,0 +1,18 @@
+.odd {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#numberTwo {
+  font-size: 36px;
+  color: blue;
+}
+
+.large-font {
+  font-size: 24px;
+}
+
+#numberFour {
+  background-color: lightgreen;
+  font-weight: bold;
+}
